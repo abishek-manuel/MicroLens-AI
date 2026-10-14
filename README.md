@@ -14,8 +14,6 @@
 
 ## 📖 About This Project
 
-Namaste! 🙏 Welcome to **MICRO LENS AI** — a final year college project built with full passion and lots of chai ☕.
-
 **MICRO LENS AI** is a full-stack web application that uses deep learning to automate the detection and classification of microplastic particles from microscopic imagery. Microplastic pollution is a growing environmental crisis in India and across the world — our rivers like the Ganga and Yamuna, coastal areas, and soil are increasingly contaminated. What traditionally takes hours of manual laboratory work is now reduced to sub-second AI inference.
 
 The system uses a **fine-tuned YOLOv12 object detection model** to identify and classify microplastic particles into four morphological categories: **fibers, films, fragments, and pellets**. Each analysis produces annotated imagery, a quantitative pollution severity score (0–100), and detailed breakdowns stored persistently in the cloud.
